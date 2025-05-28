@@ -43,4 +43,9 @@ CREATE DATABASE bitespeed_db;
 5. Start the Server
 node app.js
 The server will run at http://localhost:3000.
+![1](https://github.com/user-attachments/assets/640c1da5-ad0b-4bd6-b762-14d947a88f82)
+![2](https://github.com/user-attachments/assets/67634609-4d1e-49bd-8b3e-154a1795e348)
+![3](https://github.com/user-attachments/assets/801f1dc7-927a-478f-af12-73107884b498)
+![4](https://github.com/user-attachments/assets/75009a02-8c67-478c-b658-3fd6ae5e93a5)
+![5](https://github.com/user-attachments/assets/15b8d6c7-e79b-4528-9cb8-a29918effb65)
 
